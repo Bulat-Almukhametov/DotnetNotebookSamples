@@ -23,4 +23,4 @@ winget install Microsoft.DotNet.SDK.9
 code --install-extension ms-dotnettools.dotnet-interactive-vscode
 ```
 
-After completing these steps, you can start creating and running .NET notebooks in Visual Studio Code. Set up Visual Studio Code to work with notebooks
+After completing these steps, you can start creating and running .NET notebooks in Visual Studio Code.

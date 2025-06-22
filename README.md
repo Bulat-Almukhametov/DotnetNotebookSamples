@@ -7,4 +7,4 @@ A practical investigation into leveraging C# with Polyglot Notebooks for data an
 You can choose one of the options below to work with .NET Notebook
 
 - [Visual Studio Code](./docs/vscode-setup.md)
-- [Jupiter Notebook](./docs/jupiter-setup.md)
+- [Jupyter Notebook](./docs/jupyter-setup.md)
