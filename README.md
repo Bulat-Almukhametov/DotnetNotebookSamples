@@ -1,10 +1,14 @@
-# DotnetNotebookSamples
+# .NET Notebook Samples
 
-A practical investigation into leveraging C# with Polyglot Notebooks for data analysis, scripting, and general-purpose programming applications.
+Explore practical examples of using C# with Polyglot Notebooks for data analysis, automation, and general-purpose programming.
 
-## Set-up
+## Getting Started
 
-You can choose one of the options below to work with .NET Notebook
+Choose one of the following options to set up your .NET Notebook environment:
 
-- [Visual Studio Code](./docs/vscode-setup.md)
-- [Jupyter Notebook](./docs/jupyter-setup.md)
+- [Visual Studio Code Setup Guide](./docs/vscode-setup.md)
+- [Jupyter Notebook Setup Guide](./docs/jupyter-setup.md)
+
+## Sample Notebooks
+
+- [Calling and Analyzing APIs](./notebooks/01_API.ipynb)
